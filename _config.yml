@@ -11,3 +11,10 @@ url: "https://minigogoo.com"
 # 部落格作者資訊
 author:
   name: "MiniGo"
+  
+# Custom CSS
+sass:
+  style: compressed
+
+include:
+  - assets/css
