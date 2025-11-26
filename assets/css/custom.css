@@ -1,0 +1,25 @@
+/* ----- 自訂配色 ----- */
+
+/* 主色（連結、按鈕、標題）*/
+a, a:hover, .post-preview a {
+  color: #EA8A71 !important;
+}
+
+.navbar-brand {
+  color: #EA8A71 !important;
+}
+
+/* 副色（hover、線條） */
+a:hover {
+  color: #51E7C4 !important;
+}
+
+/* 背景色調 */
+body {
+  background-color: #A6F1F715; /* 淡淡的背景色 */
+}
+
+/* 文章標題 */
+.post-heading h1 {
+  color: #51E7C4 !important;
+}
