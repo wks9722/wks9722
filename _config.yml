@@ -1,3 +1,13 @@
-title: "我的部落格"
-description: "使用 Jekyll 打造的 GitHub Pages 網站"
-theme: jekyll-theme-cayman
+title: "MiniGo 收納誌"
+description: "分享簡約生活 / 整理術 / 收納技巧"
+theme: null
+
+# Clean Blog 主題設定
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+
+# 你的網站 URL
+url: "https://minigogoo.com"
+
+# 部落格作者資訊
+author:
+  name: "MiniGo"
